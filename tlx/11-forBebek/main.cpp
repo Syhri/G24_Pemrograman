@@ -26,7 +26,4 @@ int main()
         hasil += b[i];
     }
     cout << hasil << endl;
-
-    cin.get();
-    return 0;
 }
